@@ -20,14 +20,16 @@ Besides my dissertation topic, I have been studying other problems I expect to c
 dissertation {#diss}
 ------------
 
-I am sympathetic to Lewis\' view that naturalness/fundamentality explains a lot (namely, similarity, dissimilarity, intrinsicality, duplication, causation, laws
-of nature, meaning, and thought.) Indeed, I think the list can be
-extended (e.g. to essence, change, contradiction, categories, category mistakes, modes of being). But to do so, we need to disentangle the notion of naturalness
+I am sympathetic to David Lewis\' view that naturalness/fundamentality explains a lot (namely, similarity, dissimilarity, intrinsicality, duplication, causation, laws
+of nature, meaning, and thought) Indeed, I think the list can be
+extended (e.g. to essence, change, contradiction, categories, category mistakes, 
+modes of being). But to do so, we need to disentangle the notion of naturalness
 from Lewis\' own specific metaphysical commitments. To do all that, the structure of
-naturalness must be richer than we might have thought when within the Lewisian system. For starters, naturalness is not a
-monadic singular property of monadic properties (some of which happen to
-be properties of tuples). Naturalness is better construed as a
-relation between categories and relations; moreover, not less surprisingly, naturalness must be somehow attributable to slots of relations.
+naturalness must be richer than we might have thought when within the Lewisian system. 
+For starters, naturalness is not a monadic singular property of monadic properties 
+(some of which happen to be properties of tuples). Naturalness is better construed as a
+relation between categories and relations; moreover, not less surprisingly, naturalness 
+must be somehow attributable to slots of relations.
 
 publications
 ------------
@@ -44,8 +46,7 @@ publications
 work in progress {#inprogress}
 ----------------
 
-I list here brief descriptions of papers I am working on, some of which
-under review. Please email me if you have any interest.
+I list here brief descriptions of papers I am working on. Please email me if you have any interest.
 
 -   A paper on naturalness and relations.
 -   A paper on naturalness and categories.

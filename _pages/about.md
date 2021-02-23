@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <small> he, him, his - de Melo, T.X. - /t͡ʃiˈ&nbsp;aɡu/ <a href="/moreabout/">(...)</a> # <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <small> /t͡ʃiˈ&nbsp;aɡu/ | de Melo, T.X. | he, him, his - <a href="/moreabout/">(...)</a> # <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
