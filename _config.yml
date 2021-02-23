@@ -57,7 +57,7 @@ wikidata_id: # your wikidata id
 philpeople_url: https://philpeople.org/profiles/thiago-xavier-de-melo
 
 contact_note: #>
-  email me (i.e. txdemelo) at syr.edu or gmail.com #You can even add a little note about which of these is the best way to reach you.
+  email me (i.e. txdemelo) at syr.edu #You can even add a little note about which of these is the best way to reach you.
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
