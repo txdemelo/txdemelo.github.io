@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <small> he, him, his - de Melo, T.X. - /t͡ʃiˈaɡu/ <a href="/moreabout/">(...)</a> # <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <small> he, him, his | de Melo, T.X. | /t͡ʃiˈ&nbsp;aɡu/ <a href="/moreabout/">(more)</a> # <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -34,6 +34,10 @@ My research has revolved around properties, relations, and categories. In metaph
 I enjoy my research area, but I love teaching more broadly too. I have taught or TA'ed for introductions to ethics, metaphysics, epistemology, logic, human nature, media ethics, medieval metaphysics, scientific methods, at [Syracuse University](https://thecollege.syr.edu/philosophy/) and [University of Alagoas](https://ichca.ufal.br/graduacao/filosofia/). For more click on [teaching](/teaching/).
 
 
+Here's my [CV](assets/pdf/CV.pdf). 
+
+
+---
 
 
 
