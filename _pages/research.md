@@ -26,8 +26,7 @@ extended (e.g. to essence, change, categories, category mistakes,
 modes of being, metaphysical dialetheism). But to do so, we need to disentangle the notion of naturalness
 from Lewis\' own specific metaphysical commitments. The structure of
 naturalness must be richer. For starters, naturalness is not a monadic singular property of monadic properties (some of which happen to be properties of tuples). Naturalness is better construed as a
-relation between categories and relations; moreover, not less surprisingly, naturalness 
-must be somehow attributable to slots of relations.
+relation between categories and relations; moreover, not less surprisingly, naturalness must be somehow attributable to slots of relations.
 
 publications
 ------------
@@ -44,7 +43,7 @@ publications
 work in progress {#inprogress}
 ----------------
 
-I list here brief descriptions of papers I am working on. Please email me if you have any interest.
+I list here brief descriptions of some papers I am working on. Please email me if you have any interest.
 
 -   A paper on naturalness and relations.
 -   A paper on naturalness and categories.
