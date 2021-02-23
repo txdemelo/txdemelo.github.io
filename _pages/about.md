@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-description: <small> /t͡ʃiˈ&nbsp;aɡu/ | de Melo, T.X. | he, him, his - <a href="/moreabout/">(...)</a> # <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: > 
+  
 
 profile:
   align: right
@@ -36,6 +37,8 @@ I enjoy my research area, but I love teaching more broadly too. I have taught or
 
 Here's my [CV](assets/pdf/CV.pdf). 
 
+---
+<small> How to say, cite, refer? &nbsp; &nbsp; /t͡ʃiˈ&nbsp;aɡu/ &nbsp; | &nbsp; de Melo, T.X. &nbsp; | &nbsp; he, him, his &nbsp; <a href="/moreabout/">(more)</a> 
 
 ---
 
