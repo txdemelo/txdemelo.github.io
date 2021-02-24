@@ -59,7 +59,7 @@ philpeople_url: https://philpeople.org/profiles/thiago-xavier-de-melo
 contact_note: #>
   email me (i.e. txdemelo) at syr.edu #You can even add a little note about which of these is the best way to reach you.
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: UA-190408114-1 # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
@@ -161,7 +161,7 @@ scholar:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:    false
+enable_google_analytics:    true
 enable_panelbear_analytics: false
 enable_mansory:             true
 enable_math:                true
