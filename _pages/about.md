@@ -38,7 +38,7 @@ I enjoy my research area, but I love teaching more broadly too. I have taught an
 Here's my [CV](assets/pdf/CV.pdf). 
 
 ---
-<small> How to say, cite, refer? &nbsp; /t͡ʃiˈ&nbsp;aɡu/ &nbsp; | &nbsp; de Melo, T.X. &nbsp; | &nbsp; he, him, his &nbsp; <a href="/moreabout/">(more)</a> 
+<small> How to say|refer? &nbsp; /t͡ʃiˈ&nbsp;aɡu/ &nbsp; | &nbsp; he, him, his &nbsp; <a href="/moreabout/">(more)</a> 
 
 ---
 
