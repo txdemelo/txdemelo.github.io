@@ -2,7 +2,7 @@
 layout: page
 permalink: /moreabout/
 title: 
-description: How to say and cite? 
+description: How to say? 
 nav: false
 ---
 
