@@ -16,4 +16,4 @@ In the Spring of 2021, I taught logic fully online. I adapted my material to [Ca
 - [Syllabus](/assets/pdf/Syllabus-logic.pdf)
 - [Sample 1](https://carnap.io/shared/txdemelo@gmail.com/Problem%20Set%204.md)
 - [Sample 2](https://carnap.io/shared/txdemelo@gmail.com/Problem%20Set%205.md)
-- [Survey](https://carnap.io/shared/txdemelo@gmail.com/Survey%20on%20Carnap.pdf)
+- [Survey](/assets/pdf/Carnap-survey.pdf)
