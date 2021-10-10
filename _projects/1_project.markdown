@@ -6,6 +6,14 @@ img: /assets/img/12.jpg
 importance: 1
 ---
 
+
+
+- [Sample 1](https://carnap.io/shared/txdemelo@gmail.com/Problem%20Set%204.md)
+- [Sample 2](https://carnap.io/shared/txdemelo@gmail.com/Problem%20Set%205.md)
+- [Sample 3](https://carnap.io/shared/txdemelo@gmail.com/Practice%20Exercise%20Slides%20FOL%20Semantic%20Concepts.md)
+- [Sample 4](https://carnap.io/shared/txdemelo@gmail.com/Practice%20Exercise%20Slides%20Week%202.md)
+- [Survey on Carnap](https://carnap.io/shared/txdemelo@gmail.com/Survey%20on%20Carnap.pdf)
+
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
