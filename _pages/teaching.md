@@ -6,33 +6,33 @@ description:  # Materials for courses you taught. Replace this text with your de
 nav: true
 ---
 
-<div class="teaching grid">
+<div class="project grid">
 
-  {% assign sorted_teaching = site.teaching | sort: "importance" %}
-  {% for teaching in sorted_teaching %}
+  {% assign sorted_project = site.teaching | sort: "importance" %}
+  {% for project in sorted_project %}
   <div class="grid-item">
-    {% if teaching.redirect %}
-    <a href="{{ teaching.redirect }}" target="_blank">
+    {% if project.redirect %}
+    <a href="{{ project.redirect }}" target="_blank">
     {% else %}
-    <a href="{{ teaching.url | relative_url }}">
+    <a href="{{ project.url | relative_url }}">
     {% endif %}
       <div class="card hoverable">
-        {% if teaching.img %}
-        <img src="{{ teaching.img | relative_url }}" alt="teaching thumbnail">
+        {% if project.img %}
+        <img src="{{ project.img | relative_url }}" alt="project thumbnail">
         {% endif %}
         <div class="card-body">
-          <h2 class="card-title text-lowercase">{{ teaching.title }}</h2>
-          <p class="card-text">{{ teaching.description }}</p>
+          <h2 class="card-title text-lowercase">{{ project.title }}</h2>
+          <p class="card-text">{{ project.description }}</p>
           <div class="row ml-1 mr-1 p-0">
-            {% if teaching.github %}
+            {% if project.github %}
             <div class="github-icon">
               <div class="icon" data-toggle="tooltip" title="Code Repository">
-                <a href="{{ teaching.github }}" target="_blank"><i class="fab fa-github gh-icon"></i></a>
+                <a href="{{ project.github }}" target="_blank"><i class="fab fa-github gh-icon"></i></a>
               </div>
-              {% if teaching.github_stars %}
+              {% if project.github_stars %}
               <span class="stars" data-toggle="tooltip" title="GitHub Stars">
                 <i class="fas fa-star"></i>
-                <span id="{{ teaching.github_stars }}-stars"></span>
+                <span id="{{ project.github_stars }}-stars"></span>
               </span>
               {% endif %}
             </div>
