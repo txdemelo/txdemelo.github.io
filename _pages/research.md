@@ -47,6 +47,7 @@ I list here brief descriptions of some papers I am working on. Please email me i
 
 -   A paper on naturalness and relations.
 -   A paper on naturalness and categories.
+-   A paper on symmetry objections to positionalism. 
 -   A paper in which I offer a better best-system analysis of laws of
     nature, one that can resist arguments that appeal to the counter-factual 
     independence of laws. (Though my theory of naturalness has implications on lawhood

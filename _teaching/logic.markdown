@@ -1,8 +1,8 @@
 ---
 layout: page
-title: logic
+title: logic with carnap.io
 description: 
-img: /assets/img/sample-tfl-sem.jpg
+img: /assets/img/Sample Formal Semantics TFL2.jpg
 importance: 1
 
 
@@ -11,7 +11,7 @@ importance: 1
 
 ---
 
-In the Spring of 2021, I taught logic fully online. I adapted my material to [Carnap.io](https://carnap.io/), which provides students with, among others, automated proof-checking, model-checking, and proof-assisting tools. Below, you'll find my Syllabus and sample material. At the end of the course, I was interested in whether using the platform i) added new difficulties to the course, ii) promoted their learning in new ways, iii) would be, from student’s perspectives, advisable in a in-person course. So I conducted an informal survey. 
+In the Spring of 2021, I taught logic fully online. I adapted my material to [Carnap.io](https://carnap.io/), which provides students with, among others, automated proof-checking, model-checking, and proof-assisting tools. Below, you'll find my Syllabus and sample material. At the end of the course, I was interested in whether using the platform i) added new difficulties to the course, ii) promoted student's learning in new ways, iii) would be, from student’s perspectives, advisable in a in-person course. So I conducted an informal survey. 
 
 - [Syllabus](/assets/pdf/Syllabus-logic.pdf)
 - [Sample 1](https://carnap.io/shared/txdemelo@gmail.com/Problem%20Set%204.md)
