@@ -11,7 +11,7 @@ I have taught `Introduction to Moral Philosophy' in various ways: in a normal te
 
 Typically in this course, we see a bit of metaethics and of theories of well-being, and then we focus on normative theories and applied questions about abortion, genetic engineering, poverty, and treatment of non-human animals. 
 
-Here's a sample [syllabus](/assets/pdf/Syllabus-knowledge-and-reality.pdf). 
+Here's a sample [syllabus](/assets/pdf/Syllabus-moral-philosophy.pdf). 
 
 
 <div class="row">
