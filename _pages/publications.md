@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: talks & publications 
+title: publications 
 description: 
 years: [2019]
 nav: false

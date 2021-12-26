@@ -23,7 +23,7 @@ Below you will find material of some courses I have taught.
         <img src="{{ teaching.img | relative_url }}" alt="teaching thumbnail">
         {% endif %}
         <div class="card-body">
-          <h2 class="card-title text-lowercase" style="font-size: 1.3rem">{{ teaching.title }}</h2>
+          <h2 class="card-title text-lowercase" style="color: black;">{{ teaching.title }}</h2>
           <p class="card-text">{{ teaching.description }}</p>
           <div class="row ml-1 mr-1 p-0">
             {% if teaching.github %}
