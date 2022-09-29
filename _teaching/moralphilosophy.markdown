@@ -7,7 +7,7 @@ importance: 1
 
 ---
 
-I have taught `Introduction to Moral Philosophy' in various ways: in a normal term, summer session, in-person and fully online. 
+I have taught `Introduction to Moral Philosophy' in various ways: in a normal term, in summer sessions, in-person, and fully online.
 
 Typically in this course, we see a bit of metaethics and of theories of well-being, and then we focus on normative theories and applied questions about abortion, genetic engineering, poverty, and treatment of non-human animals. 
 
