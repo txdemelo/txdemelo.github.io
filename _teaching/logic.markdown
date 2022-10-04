@@ -17,6 +17,6 @@ I have taught logic in various modes. In the Spring of 2021, I had to teach it f
 - [A problem set on truth-functional semantics](https://carnap.io/shared/txdemelo@gmail.com/Problem%20Set%204.md)
 - [A problem set on natural deduction](https://carnap.io/shared/txdemelo@gmail.com/Problem%20Set%205.md)
 
-At the end of the course, I was interested in whether using the platform i) added new difficulties to the course, ii) promoted student's learning in new ways, iii) would be, from student’s perspectives, advisable in an in-person course. So I conducted an informal survey. 
+At the end of the course, I was interested in whether using the platform i) added new difficulties to the course, ii) promoted student's learning in new ways, and iii) would be, from student’s perspectives, advisable in an in-person course. So I conducted an informal survey. 
 
 - [My informal survey on Carnap.io](/assets/pdf/Carnap-survey.pdf)

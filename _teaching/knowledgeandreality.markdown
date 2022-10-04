@@ -9,10 +9,10 @@ importance: 1
 
 At Syracuse, I sometimes teach `Theories of Knowledge & Reality', an introduction to epistemology and metaphysics in which I typically cover five units: skepticism and knowledge, minds and machines, personal identity and death, free will and responsibility, and cosmos and god. Here's the [syllabus](/assets/pdf/Syllabus-knowledge-and-reality.pdf). 
 
-Since this course is usually taken by first years, I like giving them detailed instructions and tips for writing philosophy essays, where I describe how they can present and explain views, arguments, and objects, how they can evaluate arguments, objections, and premises, and how they can structure papers. Here are a few samples.
+Since this course is usually taken by first years, I like giving them *detailed instructions* and *tips for writing philosophy essays* where I describe how they can present and explain views, arguments, and objections, how they can evaluate arguments, objections, and premises, and how they can structure papers. Here are a few samples.
 
-- [on dualism](/assets/pdf/knowledge-and-reality-sample-assignment1.pdf)
-- [on personal identity and bodily death](/assets/pdf/knowledge-and-reality-sample-assignment2.pdf). 
+- [Assignment on dualism](/assets/pdf/knowledge-and-reality-sample-assignment1.pdf)
+- [Assignment on personal identity and bodily death](/assets/pdf/knowledge-and-reality-sample-assignment2.pdf). 
 
 
 Below you'll find a couple of sample slides. I like dynamic slides like these because they can fit more information without becoming illegible, track the natural progress of lectures better, and are easier to follow when consulted by students at home.  
