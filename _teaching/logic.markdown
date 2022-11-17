@@ -11,12 +11,12 @@ importance: 1
 
 ---
 
-I have taught logic in various modes. In the Spring of 2021, I had to teach it fully online. I adapted my material to [Carnap.io](https://carnap.io/), which provides students with, among others, automated proof-checking, model-checking, and proof-assisting tools. Below, you'll find my syllabus and sample material. 
+I have taught logic in various modes. In the Spring of 2021, I had to teach it fully online. I adapted my material to [Carnap.io](https://carnap.io/), which provides students with, among others, automated proof-checking, model-checking, and proof-assisting tools. Below, you'll find my syllabus and Carnap.io sample material. 
 
 - [Syllabus](/assets/pdf/Syllabus-logic.pdf)
 - [A problem set on truth-functional semantics](https://carnap.io/shared/txdemelo@gmail.com/Problem%20Set%204.md)
 - [A problem set on natural deduction](https://carnap.io/shared/txdemelo@gmail.com/Problem%20Set%205.md)
 
-At the end of the course, I was interested in whether using the platform i) added new difficulties to the course, ii) promoted student's learning in new ways, and iii) would be, from student’s perspectives, advisable in an in-person course. So I conducted an informal survey. 
+At the end of the course, I was interested in whether using Carnap i) added new difficulties to the course, ii) promoted student's learning in new ways, and iii) would be, from student’s perspectives, advisable in an in-person course. So I conducted an informal survey. 
 
 - [My informal survey on Carnap.io](/assets/pdf/Carnap-survey.pdf)
