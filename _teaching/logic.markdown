@@ -31,17 +31,17 @@ At the end of the course, I was interested in whether using Carnap i) added new 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
          <a href="/assets/pdf/logic-syntax-and-semantics-slides.pdf"> 
-         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/logic-syntax-and-semantics-slides3.gif' | relative_url }}" alt="click" title="Click to see PDF: conceptual analysis"/>
+         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/logic-syntax-and-semantics-slides3.gif' | relative_url }}" alt="click" title="Click to see PDF: sample slides on syntax and semantics of TFL"/>
          </a>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         <a href="https://carnap.io/shared/txdemelo@gmail.com/Problem%20Set%205.md"> 
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/logic-carnap-final-both-editor-result.png' | relative_url }}" alt="" title="Click to see PDF: functionalism"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/logic-carnap-final-both-editor-result.png' | relative_url }}" alt="" title="Click to see problem set on natural deduction"/>
         </a>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         <a href="/assets/pdf/Carnap-survey.pdf"> 
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/logic-survey-thumbnail.png' | relative_url }}" alt="" title="Click to see PDF: functionalism"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/logic-survey-thumbnail.png' | relative_url }}" alt="" title="Click to see survey on Carnap.io"/>
         </a>
     </div>
 </div>
