@@ -15,7 +15,7 @@ importance: 1
 
 
 
-I have taught logic in various modes. In the Spring of 2021, I had to teach it fully online. I adapted my material to [Carnap.io](https://carnap.io/), which provides students with, among others, automated proof-checking, model-checking, and proof-assisting tools. Below, you'll find my syllabus and Carnap.io sample material. 
+I have taught logic in various modes. In the Spring of 2021, I had to teach it fully online. I adapted my material to [Carnap.io](https://carnap.io/), which provides students with, among others, automated proof-checking, model-checking, and proof-assisting tools. Below, you'll find samples of my Carnap.io material and my syllabus.  
 
 
 
