@@ -35,7 +35,7 @@ At the end of the course, I was interested in whether using Carnap i) added new 
          </a>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <a href="https://carnap.io/shared/txdemelo@gmail.com/Problem%20Set%205.md"> 
+        <a href="/assets/embedded/logiccarnapsample2"> 
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/logic-carnap-final-both-editor-result.png' | relative_url }}" alt="" title="Click to see problem set on natural deduction"/>
         </a>
     </div>
