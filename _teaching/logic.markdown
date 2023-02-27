@@ -20,7 +20,7 @@ I have taught logic in various modes. In the Spring of 2021, I had to teach it f
 
 
 - [Syllabus](/assets/pdf/Syllabus-logic.pdf)
-- [A problem set on truth-functional semantics](https://carnap.io/shared/txdemelo@gmail.com/Problem%20Set%204.md)
+- [A problem set on truth-functional semantics](/assets/embedded/logiccarnapsample1)
 - [A problem set on natural deduction](https://carnap.io/shared/txdemelo@gmail.com/Problem%20Set%205.md)
 
 At the end of the course, I was interested in whether using Carnap i) added new difficulties to the course, ii) promoted student's learning in new ways, and iii) would be, from student’s perspectives, advisable in an in-person course. So I conducted an informal survey. 
