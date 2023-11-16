@@ -15,7 +15,7 @@ Since this course is usually taken by first years, I like giving them *detailed 
 - [Assignment on personal identity and bodily death](/assets/pdf/knowledge-and-reality-sample-assignment2.pdf). 
 
 
-Below you'll find a couple of sample slides. I like dynamic slides like these because they can fit more information without becoming illegible, track the natural progress of lectures better, and are easier to follow when consulted by students at home.  
+Below you'll find a couple of sample slides. I like dynamic slides like these because they can fit more information without becoming illegible, they track the natural progress of lectures, and they are easier to follow when consulted by students at home.  
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

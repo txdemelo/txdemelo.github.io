@@ -31,10 +31,10 @@ social: true  # includes social icons at the bottom of the page
 Hi there! I'm a PhD Candidate in the  [Department of Philosophy](https://thecollege.syr.edu/philosophy/) at [Syracuse University](https://www.syracuse.edu/). Before that, I took an [MA in Logic and Metaphysics](https://ppglm.wordpress.com/) at [Rio de Janeiro Federal University](https://ufrj.br/en/), and a BA in Philosophy at [Ceará Federal University](http://www.ufc.br/).
 
 
-My research has revolved around properties, relations, and categories. In metaphysics, [as in Jenga](https://en.wikipedia.org/wiki/Jenga), the goal is to make the foundation just enough to build everything else up. Currently, I am investigating how properties and relations must be if we want to build very high indeed. Click on [research](/research/) for a conception of relations that supports a lot, and to see what else I have been up to. 
+My research has revolved around properties, relations, and categories. In metaphysics, [as in Jenga](https://en.wikipedia.org/wiki/Jenga), one is forced to have a foundation that is parsimonious and yet strong enough to support everything else. Currently, I am investigating how properties and relations must be if we want them to constitute a good basis for a lot else—for similarity and dissimilarity among things, essence, dependence, characterization, privation, intrinsicality, change, category mistakes, etc. Click on [research](/research/) for more on this, and to see what else I have been up to.  
 
 
-I enjoy my research area, but I love teaching more broadly too. I have taught and TA'ed for courses in ethics, logic, metaphysics and epistemology, human nature, free will, media ethics, and others, at [Syracuse University](https://thecollege.syr.edu/philosophy/) and [Federal University of Alagoas](https://ichca.ufal.br/graduacao/filosofia/). For more, click on [teaching](/teaching/).
+I enjoy my research area, but I love teaching more broadly too. I have taught and TA'ed for courses in ethics, logic, metaphysics and epistemology, philosophy of science, human nature, free will, media ethics, and others, at [Syracuse University](https://thecollege.syr.edu/philosophy/) and [Federal University of Alagoas](https://ichca.ufal.br/graduacao/filosofia/). For more, click on [teaching](/teaching/).
 
 
 

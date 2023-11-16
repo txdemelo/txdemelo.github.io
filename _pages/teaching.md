@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 
-Below you will find material of some courses I have taught.  
+Below you will find syllabi and other materials of some courses I have taught.  
 
 <div class="teachings grid">
 

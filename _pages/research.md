@@ -38,21 +38,15 @@ publications
     from Kit Fine\'s famous essentialist claims involving singleton
     {Socrates} concern our conception of *relations* (or naturalness
     thereof), not essence.\
-    [Here\'s the *Phil Quarterly* page](https://doi.org/10.1093/pq/pqz014), with abstract etc.
+    [Here\'s the *Philosophical Quarterly* page](https://doi.org/10.1093/pq/pqz014), with abstract etc.
 
 work in progress {#inprogress}
 ----------------
 
 I list here brief descriptions of some papers I am working on. Please email me if you have any interest.
 
--   A paper on naturalness and relations.
--   A paper on naturalness and categories.
+-   A paper on naturalness and relations. 
+-   A paper on naturalness and categories. 
 -   A paper on symmetry objections to positionalism. 
--   A paper in which I offer a better best-system analysis of laws of
-    nature, one that can resist arguments that appeal to the counter-factual 
-    independence of laws. (Though my theory of naturalness has implications on lawhood
-    so conceived, this particular paper isn\'t part of the dissertation
-    project. On this one, I assume Lewis\' notion of naturalness. What I
-    change is the humean mosaic on which laws supervene. And I do it in
-    a way that laws won\'t depend on having instances; thus faring
-    better than Lewis\' account in some aspects.)
+-   Another paper on positionalism. 
+-   A paper on laws of nature and non-supervenience arguments. 
