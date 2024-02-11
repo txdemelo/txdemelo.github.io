@@ -15,7 +15,7 @@ Below you will find syllabi and other materials of some courses I have taught at
 
 In 2023, I received the [Outstanding TA Award](https://graduateschool.syr.edu/about/awards/outstanding-teaching-assistant-award/), which was granted by The Graduate School based on a faculty nomination, recommendation letters by faculty who observed my classes, solicited letters from students, and teaching material. 
 
-Click below to see the syllabi and other materials of the courses I created. 
+Click below to see the syllabi and other materials of the courses I created and taught at Syracuse. 
 
 <div class="teachings grid">
 
