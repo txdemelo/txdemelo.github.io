@@ -7,7 +7,7 @@ importance: 1
 
 ---
 
-At Syracuse, I sometimes teach `Theories of Knowledge & Reality', an introduction to epistemology and metaphysics in which I typically cover five units: skepticism and knowledge, minds and machines, personal identity and death, free will and responsibility, and cosmos and god. Here's the [syllabus](/assets/pdf/Syllabus-knowledge-and-reality.pdf). 
+At Syracuse, I sometimes teach `Theories of Knowledge & Reality', an introduction to epistemology and metaphysics in which I typically cover five units: skepticism and knowledge; minds, body, and artificial intelligence; personal identity and death; free will and responsibility; and cosmos, god, and faith. Here's the [syllabus](/assets/pdf/Syllabus-knowledge-and-reality.pdf). 
 
 Since this course is usually taken by first years, I like giving them *detailed instructions* and *tips for writing philosophy essays* where I describe how they can present and explain views, arguments, and objections, how they can evaluate arguments, objections, and premises, and how they can structure papers. Here are a few samples.
 

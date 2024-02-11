@@ -34,7 +34,7 @@ Hi there! I'm a PhD Candidate in the  [Department of Philosophy](https://thecoll
 My research has revolved around properties, relations, and categories. In metaphysics, [as in Jenga](https://en.wikipedia.org/wiki/Jenga), one is forced to have a foundation that is parsimonious and yet strong enough to support everything else. Currently, I am investigating how properties and relations must be if we want them to constitute a good basis for a lot else—for similarity and dissimilarity among things, essence, dependence, characterization, privation, intrinsicality, change, category mistakes, etc. Click on [research](/research/) for more on this, and to see what else I have been up to.  
 
 
-I enjoy my research area, but I love teaching more broadly too. I have taught and TA'ed for courses in ethics, logic, metaphysics and epistemology, philosophy of science, human nature, free will, media ethics, and others, at [Syracuse University](https://thecollege.syr.edu/philosophy/) and [Federal University of Alagoas](https://ichca.ufal.br/graduacao/filosofia/). For more, click on [teaching](/teaching/).
+I enjoy my research area, but I love teaching more broadly too. I have taught and TA'ed for courses in ethics, logic, metaphysics and epistemology, philosophy of science, human nature, free will, media ethics, and others, at [Syracuse University](https://thecollege.syr.edu/philosophy/) and [Universidade Federal de Alagoas](https://ichca.ufal.br/pt-br/graduacao/filosofia). For more, click on [teaching](/teaching/).
 
 
 
