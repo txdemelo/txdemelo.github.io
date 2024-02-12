@@ -10,10 +10,10 @@ nav: true
 ---
 
 
-Below you will find syllabi and other materials of some courses I have taught at [Syracuse University](https://thecollege.syr.edu/philosophy/). Besides teaching various iterations of these courses as instructor of record, I also TAed for courses in political theory, ethics and media professions, and human nature, among others. Before, I was a lecturer at [Universidade Federal de Alagoas](https://ichca.ufal.br/pt-br/graduacao/filosofia), where I taught introductory courses in philosophy, critical thinking and scientific methods, and ontology in medieval philosophy. 
+Below you will find syllabi and other materials of some courses I have taught at [Syracuse University](https://thecollege.syr.edu/philosophy/). Besides teaching (sometimes various iterations of) these courses as instructor of record, I also TAed for courses in political theory, ethics and media professions, and human nature, among others. Before, I was a lecturer at [Universidade Federal de Alagoas](https://ichca.ufal.br/pt-br/graduacao/filosofia), where I taught introductory courses in philosophy, critical thinking and scientific methods, and ontology in medieval philosophy. 
 
 
-In 2023, I received the [Outstanding TA Award](https://graduateschool.syr.edu/about/awards/outstanding-teaching-assistant-award/), which was granted by The Graduate School based on a faculty nomination, recommendation letters by faculty who observed my classes, solicited letters from students, and teaching material. 
+In 2023, I received the [Outstanding TA Award](https://graduateschool.syr.edu/about/awards/outstanding-teaching-assistant-award/), which was granted by The Graduate School based on a faculty nomination, recommendation letters by faculty who observed my classes, letters from my students, and teaching material. 
 
 Click below to see the syllabi and other materials of the courses I created and taught at Syracuse. 
 
