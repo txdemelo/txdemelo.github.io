@@ -6,27 +6,29 @@ description:
 nav: true
 ---
 
-My research area is metaphysics. I have been focusing on the
-metaphysics of properties and relations, which, basilar as it is, led me
-to study further phenomena both in metaphysics and in intersections with
-language, logic, mind, and meta-ethics. My PhD dissertation is on the
-notion of fundamental/natural relation. See a description of it [below](#diss). I have
-published some of what the dissertation is becoming already; this is listed
-[further below](#publications). And other parts of it are being worked
-out as separate papers too. See [works in progress](#inprogress) for some of them.
+My recent research has been focusing 
+on the metaphysics of properties and relations, 
+which, fundamental as it is, led me to study further phenomena 
+both in metaphysics and in intersections with language, logic, science, mind, and meta-ethics. 
+My PhD dissertation provides a new account of fundamentality/naturalness of relations. 
+See a description of it [below](#diss). 
+I have published one of the chapters of my dissertation, which is listed [further below](#publications). 
+And I am currently preparing the next chapters for publication too. See [works in progress](#inprogress) for some of them.
 
-Besides my dissertation topic, I have been studying other problems I expect to contribute to in the future. These involve laws and counterfactuals, higher-order logic and quantification, and ontological categories and metaphysical explanation. 
+Besides my dissertation topic, I have been studying other problems I expect to contribute to in the future. 
+These involve laws and counterfactuals, higher-order logic and quantification, and ontological categories and metaphysical explanation. 
 
 dissertation {#diss}
 ------------
 
-I am sympathetic to David Lewis\' view that naturalness/fundamentality explains a lot (namely, similarity, dissimilarity, intrinsicality, duplication, causation, laws
+I am sympathetic to David Lewis\' view that 
+naturalness/fundamentality explains a lot (namely, similarity, dissimilarity, intrinsicality, duplication, causation, laws
 of nature, meaning, and thought). Indeed, I think the list can be
 extended (e.g. to essence, change, categories, category mistakes, 
 modes of being, metaphysical dialetheism). But to do so, we need to disentangle the notion of naturalness
-from Lewis\' own specific metaphysical commitments. The structure of
+from Lewis\' own specific metaphysical commitments. Moreover, the structure of
 naturalness must be richer. For starters, naturalness is not a monadic singular property of monadic properties (some of which happen to be properties of tuples). Naturalness is better construed as a
-relation between categories and relations; moreover, not less surprisingly, naturalness must be somehow attributable to slots of relations.
+relation between categories and relations; moreover, not less surprisingly, naturalness must be somehow attributable to positions (or 'slots') of relations.
 
 publications
 ------------
