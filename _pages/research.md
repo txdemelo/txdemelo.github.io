@@ -32,7 +32,7 @@ relation between categories and relations; moreover, not less surprisingly, natu
 
 publications
 ------------
--   In *Position-Relative Naturalness*, I develop and defend a new theory of naturalness according to which relations can be natural to different degrees relative to their different positions. Set-membership, for example, is more natural relative to its set-position than to its member-position. I call this view position-relativism. The alternative view, position-absolutism, implies that existential derivatives of the same non-symmetric relation---such as *being a member of something*, and *having something as a member*---must always have the same degree of naturalness. But u argue that this is false. I develop position-relativism, argue that it avoids this problem, and show that it promises to do more.
+-   In *Position-Relative Naturalness*, I develop and defend a new theory of naturalness according to which relations can be natural to different degrees relative to their different positions. Set-membership, for example, is more natural relative to its set-position than to its member-position. I call this view position-relativism. The alternative view, position-absolutism, implies that existential derivatives of the same non-symmetric relation---such as *being a member of something*, and *having something as a member*---must always have the same degree of naturalness. But I argue that this is false. I develop position-relativism, argue that it avoids this problem, and show that it promises to do more.
 
     This paper is forthcoming in *The Journal of Philosophy*. I will include a link to it here when available, but please send me an email if you are interested. 
 
