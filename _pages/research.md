@@ -45,7 +45,7 @@ publications
     {Socrates} concern our conception of *relations* (or naturalness
     thereof), not essence.
     
-    [Here\'s the *Philosophical Quarterly* page](https://doi.org/10.1093/pq/pqz014), with abstract etc.
+    [Here\'s *The Philosophical Quarterly* page](https://doi.org/10.1093/pq/pqz014), with abstract etc.
 
 work in progress {#inprogress}
 ----------------
