@@ -34,7 +34,7 @@ publications
 ------------
 -   In *Position-Relative Naturalness*, I develop and defend a new theory of naturalness according to which relations can be natural to different degrees relative to their different positions. Set-membership, for example, is more natural relative to its set-position than to its member-position. I call this view position-relativism. The alternative view, position-absolutism, implies that existential derivatives of the same non-symmetric relation---such as *being a member of something*, and *having something as a member*---must always have the same degree of naturalness. But this is false. Position-relativism avoids this problem and promises to do more.
 
-This paper is forthcoming at *The Journal of Philosophy*. I will include a link to it here when available, but please send me an email if you are interested. 
+    This paper is forthcoming in *The Journal of Philosophy*. I will include a link to it here when available, but please send me an email if you are interested. 
 
 
 -   In *Essence and Naturalness*, I briefly introduce some aspects of
@@ -43,14 +43,14 @@ This paper is forthcoming at *The Journal of Philosophy*. I will include a link 
     necessity. In a way, the paper suggests that the ultimate lessons
     from Kit Fine\'s famous essentialist claims involving singleton
     {Socrates} concern our conception of *relations* (or naturalness
-    thereof), not essence.\
+    thereof), not essence.
     
     [Here\'s the *Philosophical Quarterly* page](https://doi.org/10.1093/pq/pqz014), with abstract etc.
 
 work in progress {#inprogress}
 ----------------
 
-I list here brief descriptions of some papers I am working on. Please email me if you have any interest.
+I list here brief descriptions of some papers that are under review or that I am working on right now. Please email me if you have any interest.
 
 -   A paper on naturalness and categories. 
 -   A paper on symmetry objections to positionalism. 
