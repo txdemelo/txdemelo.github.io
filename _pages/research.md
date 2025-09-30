@@ -37,6 +37,10 @@ publications
     This paper is forthcoming in *The Journal of Philosophy*. I will include a link to it here when available, but please send me an email if you are interested. 
 
 
+-   In *Negative Natural Properties, Categories, and Mistakes*, I develop a theory of naturalness according to which properties are natural relative to categories of objects. This new theory avoids a problem that, I argue, afflicts standard theories: whereas standard theories allow for only one ordering of properties, considerations of the similarity and dissimilarity made by some negative properties—like *having no parts*, *having no members*, *having no determinate mass*, *reflecting no visible light*—require admitting more than one. Additionally, I argue that my view accounts for genuine categories, category mistakes, and negation as privation, and that it accounts for a distinction between characterizing and non-characterizing fundamentality.
+
+    This paper is forthcoming in *Synthese*. Please send me an email if you are interested. 
+
 -   In *Essence and Naturalness*, I briefly introduce some aspects of
     the theory of naturalness that I have been developing, and I show
     how it can improve analyses of essence in terms of standard
@@ -52,7 +56,6 @@ work in progress {#inprogress}
 
 I list here brief descriptions of some papers that are under review or that I am working on right now. Please email me if you have any interest.
 
--   A paper on naturalness and categories. 
 -   A paper on symmetry objections to positionalism. 
 -   Another paper on positionalism. 
 -   Yet another paper on positionalism. 
