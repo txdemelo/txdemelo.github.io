@@ -32,23 +32,16 @@ relation between categories and relations; moreover, not less surprisingly, natu
 
 publications
 ------------
--   In *[Position-Relative Naturalness](/assets/pdf/paper-Melo-Position-relative-Naturalness.pdf)*, I develop and defend a new theory of naturalness according to which relations can be natural to different degrees relative to their different positions. Set-membership, for example, is more natural relative to its set-position than to its member-position. I call this view position-relativism. The alternative view, position-absolutism, implies that existential derivatives of the same non-symmetric relation---such as *being a member of something*, and *having something as a member*---must always have the same degree of naturalness. But I argue that this is false. I develop position-relativism, argue that it avoids this problem, and show that it promises to do more.
-
-    This paper is forthcoming in *The Journal of Philosophy*. 
+-   In *[Position-Relative Naturalness](/assets/pdf/paper-Melo-Position-relative-Naturalness.pdf)*, I develop and defend a new theory of naturalness according to which relations can be natural to different degrees relative to their different positions. Set-membership, for example, is more natural relative to its set-position than to its member-position. I call this view position-relativism. The alternative view, position-absolutism, implies that existential derivatives of the same non-symmetric relation---such as *being a member of something*, and *having something as a member*---must always have the same degree of naturalness. But I argue that this is false. I develop position-relativism, argue that it avoids this problem, and show that it promises to do more. This paper is forthcoming in *The Journal of Philosophy*. 
 
 
--   In *[Negative Natural Properties, Categories, and Mistakes](/assets/pdf/paper-Melo-NegativeNaturalProperties.pdf)*, I develop a theory of naturalness according to which properties are natural relative to categories of objects. This new theory avoids a problem that, I argue, afflicts standard theories: whereas standard theories allow for only one ordering of properties, considerations of the similarity and dissimilarity made by some negative properties—like *having no parts*, *having no members*, *having no determinate mass*, *reflecting no visible light*—require admitting more than one. Additionally, I argue that my view accounts for genuine categories, category mistakes, and negation as privation, and that it accounts for a distinction between characterizing and non-characterizing fundamentality.
-
-    
-    This paper is published at [*Synthese*](https://link.springer.com/article/10.1007/s11229-025-05294-y). 
+-   In *[Negative Natural Properties, Categories, and Mistakes](/assets/pdf/paper-Melo-NegativeNaturalProperties.pdf)*, I develop a theory of naturalness according to which properties are natural relative to categories of objects. This new theory avoids a problem that, I argue, afflicts standard theories: whereas standard theories allow for only one ordering of properties, considerations of the similarity and dissimilarity made by some negative properties—like *having no parts*, *having no members*, *having no determinate mass*, *reflecting no visible light*—require admitting more than one. Additionally, I argue that my view accounts for genuine categories, category mistakes, and negation as privation, and that it accounts for a distinction between characterizing and non-characterizing fundamentality. This paper is published at [Synthese](https://link.springer.com/article/10.1007/s11229-025-05294-y). 
 
 
 -   In *[Essence and Naturalness](/assets/pdf/paper-Melo-Essence-and-Naturalnesss.pdf)*, I briefly introduce some aspects of
     the theory of naturalness that I have been developing, and I show
     how it can improve analyses of essence in terms of standard
-    necessity. 
-    
-    [This paper is published at *The Philosophical Quarterly*](https://doi.org/10.1093/pq/pqz014). 
+    necessity. This paper is published at [The Philosophical Quarterly](https://doi.org/10.1093/pq/pqz014). 
 
 work in progress {#inprogress}
 ----------------
