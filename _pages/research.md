@@ -11,9 +11,9 @@ on the metaphysics of properties and relations,
 which, fundamental as it is, led me to study further phenomena 
 both in metaphysics and in intersections with language, logic, science, mind, and meta-ethics. 
 My PhD dissertation provides a new account of fundamentality/naturalness of relations. 
-See a description of it [below](#diss). 
-I have published one of the chapters of my dissertation, which is listed [further below](#publications). 
-And I am currently preparing the next chapters for publication too. See [works in progress](#inprogress) for some of them.
+See a brief description of it [below](#diss). 
+I have published some of its chapters. See [further below](#publications). 
+And I am currently preparing others for publication too. See [works in progress](#inprogress) for some of them.
 
 Besides my dissertation topic, I have been studying other problems I expect to contribute to in the future. 
 These involve laws and counterfactuals, higher-order logic and quantification, and ontological categories and metaphysical explanation. 
