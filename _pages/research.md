@@ -13,10 +13,12 @@ both in metaphysics and in intersections with language, logic, science, mind, an
 My PhD dissertation provides a new account of fundamentality/naturalness of relations. 
 See a brief description of it [below](#diss). 
 I have published some of its chapters. See [further below](#publications). 
-And I am currently preparing others for publication too. See [works in progress](#inprogress) for some of them.
+And I am currently preparing others for publication too. See [works in progress](#inprogress) for some of them. 
 
 Besides my dissertation topic, I have been studying other problems I expect to contribute to in the future. 
 These involve laws and counterfactuals, higher-order logic and quantification, and ontological categories and metaphysical explanation. 
+
+Here is my [CV](/assets/pdf/CV.pdf). 
 
 dissertation {#diss}
 ------------
@@ -48,8 +50,9 @@ work in progress {#inprogress}
 
 I list here brief descriptions of some papers that are under review or that I am working on right now. Please email me if you have any interest.
 
--   A paper on symmetry objections to positionalism. 
--   Another paper on positionalism. 
+-   A paper on symmetry objections to positionalism about relations. 
+-   A paper on naturalness, change, and inconsistency. 
+-   A paper on positionalism and regress. 
+-   A paper on composition of relational states.
 -   Yet another paper on positionalism. 
--   A paper on change and inconsistency. 
 -   A paper on laws of nature and non-supervenience arguments. 
