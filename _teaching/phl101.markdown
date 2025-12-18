@@ -12,7 +12,7 @@ At Furman University, I taught an introduction to philosophy.
 Here's the [syllabus](/assets/pdf/FurmanSyllabusPHL101.pdf).
   
 And here is some sample material:
-- [Slides on Analysis of Knowledge and Gettier Cases](/assets/pdf/FurmanAnalysisofKnowledgewithVennlike.pdf)
+- [Slides for reviewing Gettier cases and to help visualize Zabzebski's argument](/assets/pdf/FurmanAnalysisofKnowledgewithVennlike.pdf)
 - [Handout on personal identity](/assets/pdf/FurmanPersonalIdentity.pdf). 
 
 Here is the course description:
