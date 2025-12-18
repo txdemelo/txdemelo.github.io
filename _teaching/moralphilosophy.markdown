@@ -3,7 +3,7 @@ layout: page
 title: moral philosophy
 description: 
 img: /assets/img/gif-ethics.gif
-importance: 1
+importance: 2
 
 ---
 

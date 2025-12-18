@@ -3,7 +3,7 @@ layout: page
 title: knowledge & reality
 description: 
 img: /assets/img/knowledgeandreality.jpg
-importance: 1
+importance: 2
 
 ---
 

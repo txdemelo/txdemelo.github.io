@@ -3,7 +3,7 @@ layout: page
 title: philosophy of science
 description: 
 img: /assets/img/pscryingforthemoon2.png
-importance: 2
+importance: 3
 
 ---
 

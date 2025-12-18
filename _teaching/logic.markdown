@@ -3,7 +3,7 @@ layout: page
 title: logic with carnap.io
 description: 
 img: /assets/img/logic-Sample Formal Semantics TFL2.jpg
-importance: 1
+importance: 2
 
 
 # [Sample 3](https://carnap.io/shared/txdemelo@gmail.com/Practice%20Exercise%20Slides%20FOL%20Semantic%20Concepts.md)

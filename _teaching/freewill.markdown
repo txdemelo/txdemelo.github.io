@@ -3,7 +3,7 @@ layout: page
 title: free will <br>  <br> 
 description:
 img: /assets/img/freewill-poss-det2.png
-importance: 2
+importance: 3
 
 ---
 
