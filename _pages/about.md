@@ -28,7 +28,7 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-I am a FAPESP Postdoctoral Fellow at the [CLE](https://www.cle.unicamp.br/cle/english/about-cle), [UNICAMP](https://www.unicamp.br/), where I am developing a project on the structure and naturalness of relations. Before that, I took a PhD in Philosophy at [Syracuse University](https://thecollege.syr.edu/philosophy/), an [MA in Logic and Metaphysics](https://ppglm.wordpress.com/) at [Rio de Janeiro Federal University](https://ufrj.br/en/), and a BA in Philosophy at [Ceará Federal University](http://www.ufc.br/).
+I am a FAPESP Postdoctoral Fellow at the [CLE, Unicamp](https://www.cle.unicamp.br/cle/en/about-cle). I have a PhD in Philosophy from [Syracuse University](https://thecollege.syr.edu/philosophy/), an [MA in Logic and Metaphysics](https://ppglm.wordpress.com/) from [Rio de Janeiro Federal University](https://ufrj.br/en/), and a BA in Philosophy from [Ceará Federal University](http://www.ufc.br/).
 
 My research is in metaphysics, and it regularly takes me into logic, philosophy of language, and philosophy of science. Most recently, my research has revolved around properties, relations, and categories. In metaphysics, [as in Jenga](https://en.wikipedia.org/wiki/Jenga), one is forced to have a foundation that is parsimonious and yet strong enough to support everything else. Currently, I am investigating how properties and relations must be if we want them to constitute a good basis for a lot else—for similarity and dissimilarity among things, essence, dependence, characterization, privation, intrinsicality, change, category mistakes, etc. Click on [research](/research/) for more on this, and to see what else I have been up to.  
 
